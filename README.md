@@ -36,4 +36,4 @@ This dashboard provides a comprehensive view of Spotify song metrics, including:
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashik-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashik-kumar-ghosh-58443b374/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ashik-black?style=flat&logo=github)](https://github.com/AshikGithub)
+[![GitHub](https://img.shields.io/badge/GitHub-Ashik-black?style=flat&logo=github)](https://github.com/Ashik-Kumar-Ghosh)
